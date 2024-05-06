@@ -1,5 +1,2 @@
 !pip install -q kaggle
 !pip install tensorflow
-!mkdir ~/.kaggle
-!cp kaggle.json ~/.kaggle
-!chmod 600 /root/.kaggle/kaggle.json
